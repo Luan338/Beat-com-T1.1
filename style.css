@@ -139,6 +139,11 @@ main {
     margin-top: 20px;
     width: 600px;
   }
+
+  .contain {
+    height: 1300px;
+    justify-content: start;
+  }
 }
 
 @media (max-width: 750px) {
